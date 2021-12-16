@@ -22,3 +22,6 @@ utilities.pdf" (at repository root directory)
 and relevent material "Bell Labs and CSP Threads.pdf"
 (also at repository root directory).
 
+[Lab 1
+link](https://github.com/minorityreportc/mits081_os/blob/main/Lab1/LAB1_README.md)
+
